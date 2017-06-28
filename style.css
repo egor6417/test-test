@@ -1,0 +1,108 @@
+html, body {
+	font-family:'Suez One', sans-serif;
+	font-weight: 100;}
+
+h1 {
+	font-size:48px;
+	font-weight: 400;
+	margin-left: 50px;
+	margin-right: 100px;}
+ 
+h2{
+	color: black;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-weight:400;}
+
+h3 {     
+    color:black;  
+    font-weight:400;
+    margin-left: 100px;
+	margin-right: 100px;
+	text-decoration: none;
+	text-transform: none;
+text-decoration-style}
+
+h4{
+	color: black;
+	margin-left:90px;
+	margin-right: 120px;
+	font-weight: 400;}
+
+h5 {     
+    color:black;  
+    margin-left: 100px;
+	margin-right: 100px;
+	font-size: 25px;}
+
+p {
+	font-size: 18px;
+	margin-left: 100px;
+	margin-right: 100px;}
+
+a {
+  	text-decoration: none;
+  	color: black;
+  	}
+
+li {
+	padding-left: 20px;
+	font-size: 14px;
+	margin: 0 0 36px;
+	color:black;
+	position: center;
+	margin-left: 100px;}	   	
+
+.nav a {
+		display: inline;
+		font-size: 24px;
+		color:black;
+		position: center;
+		font-size: 36px; 
+		text-align: center;
+		border-top: 8px solid lime;}
+
+.nav li {
+		display: inline;}
+
+.lime{
+	border-top: 8px solid lime;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 10px;}
+
+.white{
+	border-top: 1px solid white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 0px;}
+
+.post {
+	margin-left: 10px;
+	font-family: 'Suez One', serif;
+	font-size: 24px;}
+
+
+
+.quote {
+	color: deeppink;
+	font-size: 100px;
+	font-family: 'Permanent Marker';
+	font-weight: bold;
+	margin-left: 200px;
+	margin-right:60%;}
+
+.social {
+	margin-left: 50%;
+	margin-right: 50%;}
+
+.eval {
+	margin-left:50px;
+}
+
+.russian {
+	font-family: 'Roboto Slab';
+	margin-left: 10px;
+	font-size: 24px;
+	font-weight: 900;
+}
