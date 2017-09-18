@@ -1,21 +1,16 @@
 30th Wed
 [x] Check Financier Availability 
+[ ] Get Another Card @ Sberbank
 [x] Cash Out 1kp @ Sberbank
 [x] Check Michelle Menu
-[x] Financier @ Laduree
-[x] O-Case @ Chanel
-[x] Espadrilles @ Chanel
-[x] Brooch @ Chanel
-[x] Coco Noir @ TSUM
-[ ] Algebra hwk @ Library
-[ ] Read @ Cherniy
-[ ] Go Home
-[ ] Exercise @ N-Ergo
-[ ] Algebra Tutor
+[ ] Financier @ Laduree
+[ ] O-Case @ Chanel
+[ ] Espadrilles @ Chanel
+[ ] Brooch @ Chanel
+[ ] Coco Noir @ TSUM
 
 31st Thu
-[ ] Pain au Chocolat & Cappucino @ Laduree/Coffeemania
-[ ] Get Another Card @ Sberbank
+[ ] Pain au Chocolat & Cappucino @ Laduree/Michelle/Coffeemania
 1st Fri
 [ ] Celebration @ School
 [ ] Hario @ DoubleB
@@ -55,8 +50,7 @@
 [ ] Study @ School
 [ ] Aeropress @ Cherniy
 [ ] Existentialism @ Cherniy
-[ ] Collect Card @ Sberbank Patriki
-[ ] Cash Out 1.5kp @ Sberbank
+[ ] Homework @ Library
 [ ] Train Home
 9th Sat
 [ ] Coffee&Books Cappucino 
