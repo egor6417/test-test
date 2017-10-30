@@ -1,6 +1,9 @@
 data=input().split()
 A=list(map(int,data)
-d=A[-1]
-for i in range (0, len(A),-1)
+p=-1
+y=A[len(A)-1]
+for i in range (0, len(A)-1,-1, p):
 	A[i]=A[i+1]
-A[len(A)-1]=d
+A[0]=y
+for i in range (0, len(A)):
+	print(A[i], end='')
