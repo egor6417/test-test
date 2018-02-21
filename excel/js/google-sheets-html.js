@@ -15,7 +15,7 @@ google.load('visualization', '1', {
 var visualization;
 
 function drawVisualization() {
-    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1mIqOCLV9TLp1CZFAM7_Ui1PnvekLXIwoJxnWBzOFhwo/edit?usp=sharing');  
+    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1mIqOCLV9TLp1CZFAM7_Ui1PnvekLXIwoJxnWBzOFhwo');  
     query.setQuery('SELECT A, B, C, D, E, F, G, H label A "Duration", B "Song", C "Requested By", D "URL"');
     query.send(handleQueryResponse);
 }
